@@ -1,10 +1,10 @@
 # web-performance
 
-# JavaScript:
 
-Debounce and Throttling
-Usecase: Search on keypress and limit no of API calls
 
-## React based Performance:
-Do you have a component which renders too much? by Adrian Bogdan
-https://www.linkedin.com/feed/update/urn:li:activity:6929132787773898752/
+
+## Performance
+How to convince your client to focus on performance
+https://medium.com/@armelpingault/how-to-convince-your-client-to-focus-on-web-performance-a-case-study-35f12385689
+
+https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/?cp_oauth_jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwIjoidXJsIiwicmFuZCI6ImVkZGI1OTIzZmI4OWFjZTAzMDlmNjJlMWUwY2ExZmJmIiwidiI6IjEiLCJvcmlnaW5hbFVybEhhc2giOiJhYTRkNjQ4MjQ3NjYzM2ZhNzk2NDVkNDhjYzc1MzdkYTA3N2I3NDJmIiwiZXhwIjoxNzMzOTkyMjI3LCJyaWQiOiI5NDU0MzAxIiwiaWF0IjoxNzMzMzg3NDI3LCJjaWQiOiI1MjUifQ.xzvBVGyALMOGMulacPHTEBM8xnKFecwdqB_ZaOX3VC0
